@@ -1,0 +1,18 @@
+.settings.dark {
+    background-color: #282c34;
+    color: white;
+}
+
+.settings.light {
+    background-color: white;
+    color: #282c34;
+}
+
+.settings.party {
+    background-color: #85F55B;
+    color: #D8982D;
+}
+
+.settings label {
+    display: block;
+}
